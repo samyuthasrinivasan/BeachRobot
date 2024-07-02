@@ -3,12 +3,10 @@
 """
 Created on Tue Jun 25 17:46:30 2024
 
-@author: samyutha
+@author: Samyutha Srinivasan
+@author: Daniel Sklyarevskiy
+@author: Mehr Anand
 """
-
-# import the opencv library 
-# import cv2 
-import numpy as np
 
 import torch
 import torch.nn.functional as F
